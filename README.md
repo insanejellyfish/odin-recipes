@@ -1,1 +1,1 @@
-To update later with what was learned.
+Created a recipe website using html only. I already new how to do this; however, the real lesson for me was using git and github. I am learning how to create a repository in github, put it on my local machine, create a site, stage and commit it to git, and then push it back to github once done.
