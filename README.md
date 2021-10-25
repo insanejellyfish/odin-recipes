@@ -1,1 +1,1 @@
-Created a simple recipe site using html only.
+Created a simple recipe site using html and css.
